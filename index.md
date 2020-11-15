@@ -124,8 +124,7 @@ Untuk menggunakan fitur ini, pertama kita masuk ke website dan melakukan log in.
 
 **Hasil Re-Design** | **Hasil Re-Design**
 ------------------- | ---------------------------------
-[<img src="/Dermanifest-Mockup_Design/01.LANDING_PAGE-SEBELUM_LOGIN.jpg" width="250"/>](/Dermanifest-Mockup_Design/01.LANDING_PAGE-SEBELUM_LOGIN.jpg)|[<img src="/Dermanifest-Mockup_Design/02.LANDING_PAGE-SETELAH_LOGIN.jpg" width="250"/>](/Dermanifest-Mockup_Design/02.LANDING_PAGE-SETELAH_LOGIN.jpg)
-[<img src="/Dermanifest-Mockup_Design/03.LANDING PAGE-SETELAH_LOGIN_(PAS_ACOOUNT_NAME_DITEKAN).jpg" width="250"/>](/Dermanifest-Mockup_Design/03.LANDING PAGE-SETELAH_LOGIN_(PAS_ACOOUNT_NAME_DITEKAN).jpg)|[<img src="/Dermanifest-Mockup_Design/04.login.jpg" width="250"/>](/Dermanifest-Mockup_Design/04.login.jpg)
+[<img src="/Dermanifest-Mockup_Design/01.LANDING_PAGE-SEBELUM_LOGIN.jpg" width="250"/>](/Dermanifest-Mockup_Design/01.LANDING_PAGE-SEBELUM_LOGIN.jpg)|[<img src="/Dermanifest-Mockup_Design/04.login.jpg" width="250"/>](/Dermanifest-Mockup_Design/04.login.jpg)
 [<img src="/Dermanifest-Mockup_Design/05.signup-email.jpg" width="250"/>](/Dermanifest-Mockup_Design/05.signup-email.jpg)|[<img src="/Dermanifest-Mockup_Design/06.registation.jpg" width="250"/>](/Dermanifest-Mockup_Design/06.registation.jpg)
 [<img src="/Dermanifest-Mockup_Design/07.AccountSetting.jpg" width="250"/>](/Dermanifest-Mockup_Design/07.AccountSetting.jpg)|[<img src="/Dermanifest-Mockup_Design/08.ProductList.jpg" width="250"/>](/Dermanifest-Mockup_Design/08.ProductList.jpg)
 [<img src="/Dermanifest-Mockup_Design/09.ProductDetail.jpg" width="250"/>](/Dermanifest-Mockup_Design/09.ProductDetail.jpg)|[<img src="/Dermanifest-Mockup_Design/10.FormOrder.jpg" width="250"/>](/Dermanifest-Mockup_Design/10.FormOrder.jpg)
