@@ -121,7 +121,7 @@ Fitur ini adalah fitur yang berfungsi sebagai penyedia berbagai macam produk ski
 Untuk menggunakan fitur ini, pertama kita masuk ke website dan melakukan log in. Setelah itu, kita masuk ke menu “Produk”. Di menu tersebut, kita dapat memilih produk yang mau dibeli dan sistem pun akan memberikan form order. Selanjutnya, kita mengisi form order dan mengkonfirmasinya untuk lanjut atau batal. Jika batal kita kembali memilih produk. Jika lanjut, sistem akan memutuskan order, apakah valid atau tidak. Jika ditolak, dikembalikan ke halaman mengisi form. Jika diterima, maka penawaran diterima dan diberikan kepada user untuk menyelesaikan transaksi.
 
 **Berikut mockup design nya:**
-
+![01.LANDING_PAGE-SEBELUM_LOGIN](/Dermanifest-Mockup_Design/01.LANDING_PAGE-SEBELUM_LOGIN.jpg){:height="700px" width="400px"}
 **Hasil Re-Design** | **Hasil Re-Design**
 ------------------- | ---------------------------------
 [<img src="/Dermanifest-Mockup_Design/01.LANDING_PAGE-SEBELUM_LOGIN.jpg" width="250"/>](/Dermanifest-Mockup_Design/01.LANDING_PAGE-SEBELUM_LOGIN.jpg)|[<img src="/Dermanifest-Mockup_Design/04.login.jpg" width="250"/>](/Dermanifest-Mockup_Design/04.login.jpg)
