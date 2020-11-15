@@ -4,6 +4,8 @@ Muhammad Anindyo P. M. (1313619004) <br>
 Putu Sanisa Pascaline (1313619023) <br>
 Handini Aprillia Wijaya (1313619038) <br>
 
+----
+
 ## Prolog
 Perawatan kulit atau yang sering kita kenal dengan Skincare merupakan salah satu hal yang cukup penting, bahkan banyak orang yang menganggapnya sebagai kebutuhan. Mulai dari kulit wajah hingga kulit kaki, banyak dari mereka yang bener-benar merawatnya agar terhindar dari segala macam masalah kulit yang mengintai. Maka tak heran hingga saat ini, kata “Skincare” menjadi trend pada masyarakat Indonesia sesuai dengan data dari Google Trends berikut:
 Ditunjukkan bahwa kata “Skincare” menjadi tren yang stable yang hingga hari ini mendapatkan poin trend mendekati 75 dari 100 poin
@@ -17,6 +19,8 @@ Untuk menghindari diri dari berbagai macam masalah pada kulit, banyak orang yang
 	Kami menamakan web app kami dengan nama, Dermanifest. Berasal dari kata “derma” yang artinya kulit dan “manifest” yang artinya manifestasi / perwujudan sehingga jika disatukan akan menjadi “perwujudan kulit” agar menjadi lebih sempurna tentunya, sesuai dengan tagline kami “ManifestING your perfect skin!”
 
 ![LOGOHCI](https://user-images.githubusercontent.com/58965231/99179510-329e4700-2751-11eb-8792-3ce10532a24e.jpeg)
+
+----
 
 ## Hasil Analisis Kuisioner
 
@@ -82,6 +86,7 @@ Kami menggabungkan kedua segmentasi tersebut di dalam data respon pada pertanyaa
 
 ![Prioritas_Utama](https://user-images.githubusercontent.com/58965231/99181631-44d4b100-2762-11eb-9a79-a5500158824d.png)
 
+----
 
 ## Flow Design dan Mock-up Web
 
@@ -129,6 +134,7 @@ Untuk menggunakan fitur ini, pertama kita masuk ke website dan melakukan log in.
 <img height=500 src="./Design_Solution/design_2_final/15.5-tidak_layak.jpg">|<img height=500 src="./Design_Solution/design_2_final/16-CLH_DOWN_KEBUKA-GABOLE_HAMIL.jpg">
 <img height=500 src="./Design_Solution/design_2_final/17-artikel_talasemia.jpg">|<img height=500 src="./Design_Solution/design_2_final/7.5-Hasil_Onboarding.jpg">
 
+----
 
 ## Penutup 
 
