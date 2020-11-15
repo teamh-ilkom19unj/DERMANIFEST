@@ -124,7 +124,7 @@ Untuk menggunakan fitur ini, pertama kita masuk ke website dan melakukan log in.
 
 **Hasil Re-Design** | **Hasil Re-Design**
 ------------------- | ---------------------------------
-<img height=500 src="./Design_Solution/design_2_final/02-Menu_Profil_dan_Start_Onboarding.jpg">|<img height=500 src="./Design_Solution/design_2_final/03-OB-JK.jpg">
+<img height=500 src="./Dermanifest-Mockup_Design/01.LANDING_PAGE-SEBELUM_LOGIN.jpg>|<img height=500 src="./Design_Solution/design_2_final/03-OB-JK.jpg">
 <img height=500 src="./Design_Solution/design_2_final/04-OB-Umur.jpg">|<img height=500 src="./Design_Solution/design_2_final/05-OB-StatHamil.jpg">
 <img height=500 src="./Design_Solution/design_2_final/06-OB-RiwSakit.jpg">|<img height=500 src="./Design_Solution/design_2_final/07-OB-ENDING.jpg">
 <img height=500 src="./Design_Solution/design_2_final/08-HOME.jpg">|<img height=500 src="./Design_Solution/design_2_final/09-Buku_Saku.jpg">
