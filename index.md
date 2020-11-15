@@ -25,13 +25,15 @@ Kuesioner ini kami laksanakan pada Senin, 9 November 2020 sampai dengan Rabu, 11
 Total responden yang kami kumpulkan adalah 72 responden.
 Pada kuesioner ini, kami menggunakan skala likert 1-5, dengan deskripsi skalanya, yaitu:
 
-a. Sangat perlu/sangat sering/sangat _____ (80%-100%)
-b. Perlu/sering/_____ (60%-79.9%)
-c. Cukup perlu/cukup sering/cukup ____ (40%-59.9%)
-d. Kurang perlu/kurang sering/kurang ___ (20%-39.9%)
-e. Tidak perlu/tidak sering/tidak ____ (0%-19.9%)
-	Setelah data terkumpul, kami menghitungnya dengan membagi / mensegmentasikannya menjadi 2 grup profesi yang menjadi mayoritas, yaitu grup pekerja dan grup pelajar / mahasiswa. 
+**a. Sangat perlu/sangat sering/sangat ___ (80%-100%)** <br>
+**b. Perlu/sering/___ (60%-79.9%)** <br>
+**c. Cukup perlu/cukup sering/cukup ___ (40%-59.9%)** <br>
+**d. Kurang perlu/kurang sering/kurang ___ (20%-39.9%)** <br>
+**e. Tidak perlu/tidak sering/tidak ___ (0%-19.9%)** <br>
+
+Setelah data terkumpul, kami menghitungnya dengan membagi / mensegmentasikannya menjadi 2 grup profesi yang menjadi mayoritas, yaitu grup pekerja dan grup pelajar / mahasiswa. 
 Kami menghitung data dengan perhitungan skor skala likert. Cara perhitungannya yaitu:
+
 Contoh, kami mengambil data responden dari pertanyaan nomor 1 (Apakah anda tahu tentang karakteristik kulit anda?) pada grup pekerja (10 responden) didapat:
 * Ada 0 responden yang menjawab sangat tahu (skor: 5) = 0 x (5) = 0
 * Ada 1 responden yang menjawab tahu (skor: 4) = 1 x (4) = 4
