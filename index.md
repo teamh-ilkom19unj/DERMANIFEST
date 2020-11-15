@@ -14,7 +14,7 @@ Ditunjukkan bahwa kata “Skincare” menjadi tren yang stable yang hingga hari 
 
 Untuk menghindari diri dari berbagai macam masalah pada kulit, banyak orang yang menggunakan produk skincare seperti masker, facial wash, serum, pelembab, dan sun protection. Namun, apakah mereka mengetahui betul produk-produk skincare tersebut? Apakah mereka tahu kegunaannya? Atau perbedaannya? Atau jangan-jangan mereka tidak tahu dengan karakteristik kulit mereka sendiri? Jawabannya bisa iya, bisa tidak. 
 	Oleh karena itu, kami, Team H, memiliki inisiatif untuk mengembangkan web app e-commerce sebagai penyedia produk skincare, sekaligus sebagai sistem informasi bagi pengguna skincare maupun bagi mereka yang kepo dengan skincare.
-	Kami menamakan web app kami dengan nama, Dermanifest. Berasal dari kata “derma” yang artinya kulit dan “manifest” yang artinya manifestasi / perwujudan sehingga jika disatukan akan menjadi “perwujudan kulit” agar menjadi lebih sempurna tentunya, sesuai dengan tagline kami “Manifest your perfect skin!”
+	Kami menamakan web app kami dengan nama, Dermanifest. Berasal dari kata “derma” yang artinya kulit dan “manifest” yang artinya manifestasi / perwujudan sehingga jika disatukan akan menjadi “perwujudan kulit” agar menjadi lebih sempurna tentunya, sesuai dengan tagline kami “Manifesting your perfect skin!”
 
 ![LOGOHCI](https://user-images.githubusercontent.com/58965231/99179510-329e4700-2751-11eb-8792-3ce10532a24e.jpeg)
 
