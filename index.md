@@ -77,13 +77,15 @@ Apa yang akan menjadi prioritas utama anda dalam menggunakan website kami?
 
 Setelah meninjau hasil dari kuesioner, kami pun langsung menginisiasikan pembuatan activity diagram dan mockup dari web app kami, Dermanifest.
 Berikut activity diagramnya:
-1. Pendaftaran Akun Dermanifest
+1. Pendaftaran Akun Dermanifest <br>
+
 ![Pendaftaran_Akun](https://user-images.githubusercontent.com/58965231/99180568-dbe93b00-2759-11eb-9611-d6b4d580379e.jpg)
 
 Untuk menyimpan data kita agar dapat digunakan sebagai preferensi kita dalam menggunakan web ini, kita perlu log in terlebih dahulu. Sebelum log in, kita tentunya perlu mendaftarkan akun kita dulu.
 Alur pendaftarannya, yaitu pertama-tama kita masuk ke dalam website. Kemudian, menekan tombol "DAFTAR". Setelah itu, sistem akan menampilkan form input email dan kita pun harus mengisinya. Kemudian, sistem akan menyimpan email dan melanjutkan dengan memberikan form pendaftaran. Kita pun mengisi form pendaftaran dengan mengisi nama depan & belakang, username, password, dan konfirmasi password. Kemudian, menekan tombol "Daftar" pada bagian bawah form dan data pun akan disimpan oleh sistem.
 
-2. Menggunakan Fitur Care Guide
+2. Menggunakan Fitur Care Guide <br>
+
 ![Menggunakan_fitur_Care_guide](https://user-images.githubusercontent.com/58965231/99180571-de4b9500-2759-11eb-920c-35f82c615ab6.jpg)
 
 Care Guide adalah fitur yang kami usung dengan tujuan untuk memandu para pengguna, maupun bagi mereka yang kepo dengan skincare agar tidak kebingungan dengan dunia skincare. Dilengkapi dengan beragam artikel menarik dan fitur onboarding untuk mengetahui karakteristik kulit para pengguna.
