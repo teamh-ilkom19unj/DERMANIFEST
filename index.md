@@ -59,8 +59,6 @@ Segmentasi konsumen dibagi ke -> Profesi sebagai:
 7. Apakah anda akan terbantu jika diadakan konsultasi secara daring / online pada website kami? = 80% (Sangat terbantu)
 8. Apakah anda akan tertarik untuk mengunjungi website kami jika ada panduan lengkap mengenai perawatan kulit? = 76% (Tertarik)
 
-Apa yang akan anda lakukan saat kesulitan menggunakan skincare?
-Apa yang akan menjadi prioritas utama anda dalam menggunakan website kami?
 
 - Pelajar/Mahasiswa
 1. Apakah anda tahu tentang karakteristik kulit anda? = 64% (Tahu)
@@ -72,8 +70,17 @@ Apa yang akan menjadi prioritas utama anda dalam menggunakan website kami?
 7. Apakah anda akan terbantu jika diadakan konsultasi secara daring / online pada website kami? = 83% (Sangat perlu)
 8.Apakah anda akan tertarik untuk mengunjungi website kami jika ada panduan lengkap mengenai perawatan kulit? = 82% (Sangat perlu)
 
-Apa yang akan anda lakukan saat kesulitan menggunakan skincare?
-Apa yang akan menjadi prioritas utama anda dalam menggunakan website kami?
+---- 
+
+Kami menggabungkan dua segmentasi konsumen di 2 pertanyaan ini
+
+Apa yang akan anda lakukan saat kesulitan menggunakan skincare? <br> 
+
+![Saat_Kesulitan](https://user-images.githubusercontent.com/58965231/99181632-469e7480-2762-11eb-9b88-4d3b78fa3a00.png)
+
+Apa yang akan menjadi prioritas utama anda dalam menggunakan website kami? <br>
+
+![Prioritas_Utama](https://user-images.githubusercontent.com/58965231/99181631-44d4b100-2762-11eb-9a79-a5500158824d.png)
 
 
 ## Flow Design dan Mock-up Web
