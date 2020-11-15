@@ -1,6 +1,6 @@
 title: Dermanifest
-logo: DERMANIFEST/gh-page/assets/LOGOHCI.jpeg
-description: For Assignment 3.
+# logo: DERMANIFEST/gh-page/assets/LOGOHCI.jpeg
+# description: For Assignment 3.
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
