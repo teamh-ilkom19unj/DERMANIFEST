@@ -14,7 +14,7 @@ Ditunjukkan bahwa kata “Skincare” menjadi tren yang stable yang hingga hari 
 
 Untuk menghindari diri dari berbagai macam masalah pada kulit, banyak orang yang menggunakan produk skincare seperti masker, facial wash, serum, pelembab, dan sun protection. Namun, apakah mereka mengetahui betul produk-produk skincare tersebut? Apakah mereka tahu kegunaannya? Atau perbedaannya? Atau jangan-jangan mereka tidak tahu dengan karakteristik kulit mereka sendiri? Jawabannya bisa iya, bisa tidak. 
 	Oleh karena itu, kami, Team H, memiliki inisiatif untuk mengembangkan web app e-commerce sebagai penyedia produk skincare, sekaligus sebagai sistem informasi bagi pengguna skincare maupun bagi mereka yang kepo dengan skincare.
-	Kami menamakan web app kami dengan nama, Dermanifest. Berasal dari kata “derma” yang artinya kulit dan “manifest” yang artinya manifestasi / perwujudan sehingga jika disatukan akan menjadi “perwujudan kulit” agar menjadi lebih sempurna tentunya, sesuai dengan tagline kami “Manifesting your perfect skin!”
+	Kami menamakan web app kami dengan nama, Dermanifest. Berasal dari kata “derma” yang artinya kulit dan “manifest” yang artinya manifestasi / perwujudan sehingga jika disatukan akan menjadi “perwujudan kulit” agar menjadi lebih sempurna tentunya, sesuai dengan tagline kami “Manifest your perfect skin!”
 
 ![LOGOHCI](https://user-images.githubusercontent.com/58965231/99179510-329e4700-2751-11eb-8792-3ce10532a24e.jpeg)
 
@@ -78,13 +78,13 @@ Apa yang akan menjadi prioritas utama anda dalam menggunakan website kami?
 Setelah meninjau hasil dari kuesioner, kami pun langsung menginisiasikan pembuatan activity diagram dan mockup dari web app kami, Dermanifest.
 Berikut activity diagramnya:
 1. Pendaftaran Akun Dermanifest
-*Flowchart insert*
+![Pendaftaran_Akun](https://user-images.githubusercontent.com/58965231/99180568-dbe93b00-2759-11eb-9611-d6b4d580379e.jpg)
 
 Untuk menyimpan data kita agar dapat digunakan sebagai preferensi kita dalam menggunakan web ini, kita perlu log in terlebih dahulu. Sebelum log in, kita tentunya perlu mendaftarkan akun kita dulu.
 Alur pendaftarannya, yaitu pertama-tama kita masuk ke dalam website. Kemudian, menekan tombol "DAFTAR". Setelah itu, sistem akan menampilkan form input email dan kita pun harus mengisinya. Kemudian, sistem akan menyimpan email dan melanjutkan dengan memberikan form pendaftaran. Kita pun mengisi form pendaftaran dengan mengisi nama depan & belakang, username, password, dan konfirmasi password. Kemudian, menekan tombol "Daftar" pada bagian bawah form dan data pun akan disimpan oleh sistem.
 
 2. Menggunakan Fitur Care Guide
-*Flowchart insert*
+![Menggunakan_fitur_Care_guide](https://user-images.githubusercontent.com/58965231/99180571-de4b9500-2759-11eb-920c-35f82c615ab6.jpg)
 
 Care Guide adalah fitur yang kami usung dengan tujuan untuk memandu para pengguna, maupun bagi mereka yang kepo dengan skincare agar tidak kebingungan dengan dunia skincare. Dilengkapi dengan beragam artikel menarik dan fitur onboarding untuk mengetahui karakteristik kulit para pengguna.
 Untuk menggunakan fitur Care Guide, pertama kita perlu masuk ke website. Lalu, masuk masuk ke menu “Care Guide”. Di sini ada dua pilihan, yaitu membaca artikel dan mulai onboarding. Jika kita memilih untuk membaca artikel, kita akan langsung bisa membaca artikel apa saja. Jika kita memilih untuk mulai onboarding, kita akan masuk ke menu onboarding. Di menu onboarding, kita akan ditanyakan karakteristik kulit kita. Pertama, memilih warna kulit. Kedua, memilih jenis kulit. Dan ketiga, memilih kondisi kulit. Saat kita memilih jenis dan kondisi kulit, kita tidak sembarangan mengisi karena sistem juga akan membantu anda dalam menentukan pilihan anda dengan memberikan informasi pada setiap pilihan (akan terlihat jelas pada desain mockup nanti). Setelah memilih, kita menekan tombol “Cek Hasil” dan sistem pun mengeceknya. Akhirnya, sistem akan memberikan hasil onboarding dan kita pun membacanya, dan juga diberikan artikel rekomendasi untuk kita baca nantinya.
