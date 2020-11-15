@@ -1,5 +1,5 @@
 # Dermanifest 
-
+![LOGOHCI](https://user-images.githubusercontent.com/58965231/99179510-329e4700-2751-11eb-8792-3ce10532a24e.jpeg)
 ## TEAM H
 Muhammad Anindyo P. M. (1313619004) <br>
 Putu Sanisa Pascaline (1313619023) <br>
