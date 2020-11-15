@@ -106,7 +106,7 @@ Untuk menggunakan fitur Comparison, pertama kita masuk ke website. Lalu masuk ke
 Fitur ini adalah fitur yang berfungsi sebagai penyedia berbagai macam produk skincare agar dapat dibeli oleh user nantinya
 Untuk menggunakan fitur ini, pertama kita masuk ke website dan melakukan log in. Setelah itu, kita masuk ke menu “Produk”. Di menu tersebut, kita dapat memilih produk yang mau dibeli dan sistem pun akan memberikan form order. Selanjutnya, kita mengisi form order dan mengkonfirmasinya untuk lanjut atau batal. Jika batal kita kembali memilih produk. Jika lanjut, sistem akan memutuskan order, apakah valid atau tidak. Jika ditolak, dikembalikan ke halaman mengisi form. Jika diterima, maka penawaran diterima dan diberikan kepada user untuk menyelesaikan transaksi.
 
-**Berikut mockup design nya: **
+**Berikut mockup design nya:**
 
 **Hasil Re-Design** | **Hasil Re-Design**
 ------------------- | ---------------------------------
