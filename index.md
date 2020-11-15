@@ -124,15 +124,16 @@ Untuk menggunakan fitur ini, pertama kita masuk ke website dan melakukan log in.
 
 **Hasil Re-Design** | **Hasil Re-Design**
 ------------------- | ---------------------------------
-<img height=500 src="./Dermanifest-Mockup_Design/01.LANDING_PAGE-SEBELUM_LOGIN.jpg>|<img height=500 src="./Design_Solution/design_2_final/03-OB-JK.jpg">
-<img height=500 src="./Design_Solution/design_2_final/04-OB-Umur.jpg">|<img height=500 src="./Design_Solution/design_2_final/05-OB-StatHamil.jpg">
-<img height=500 src="./Design_Solution/design_2_final/06-OB-RiwSakit.jpg">|<img height=500 src="./Design_Solution/design_2_final/07-OB-ENDING.jpg">
-<img height=500 src="./Design_Solution/design_2_final/08-HOME.jpg">|<img height=500 src="./Design_Solution/design_2_final/09-Buku_Saku.jpg">
-<img height=500 src="./Design_Solution/design_2_final/10-PersiapanNikah.jpg">|<img height=500 src="./Design_Solution/design_2_final/11-ARTIKEL_BUKU_SAKU.jpg">
-<img height=500 src="./Design_Solution/design_2_final/12-Cek_Layak_Hamil.jpg">|<img height=500 src="./Design_Solution/design_2_final/13-CLH_DOWN_KEBUKA-BOLE_HAMIL-1.jpg">
-<img height=500 src="./Design_Solution/design_2_final/14-CLH DOWN_KEBUKA_BOLE_HAMIL.jpg">|<img height=500 src="./Design_Solution/design_2_final/15-layak_hamil.jpg">
-<img height=500 src="./Design_Solution/design_2_final/15.5-tidak_layak.jpg">|<img height=500 src="./Design_Solution/design_2_final/16-CLH_DOWN_KEBUKA-GABOLE_HAMIL.jpg">
-<img height=500 src="./Design_Solution/design_2_final/17-artikel_talasemia.jpg">|<img height=500 src="./Design_Solution/design_2_final/7.5-Hasil_Onboarding.jpg">
+[<img src="/Dermanifest-Mockup_Design/01.LANDING_PAGE-SEBELUM_LOGIN.jpg" width="250"/>](/Dermanifest-Mockup_Design/01.LANDING_PAGE-SEBELUM_LOGIN.jpg)|[<img src="/Dermanifest-Mockup_Design/02.LANDING_PAGE-SETELAH_LOGIN.jpg" width="250"/>](/Dermanifest-Mockup_Design/02.LANDING_PAGE-SETELAH_LOGIN.jpg)
+[<img src="/Dermanifest-Mockup_Design/03.LANDING PAGE-SETELAH_LOGIN_(PAS_ACOOUNT_NAME_DITEKAN).jpg" width="250"/>](/Dermanifest-Mockup_Design/03.LANDING PAGE-SETELAH_LOGIN_(PAS_ACOOUNT_NAME_DITEKAN).jpg)|[<img src="/Dermanifest-Mockup_Design/04.login.jpg" width="250"/>](/Dermanifest-Mockup_Design/04.login.jpg)
+[<img src="/Dermanifest-Mockup_Design/05.signup-email.jpg" width="250"/>](/Dermanifest-Mockup_Design/05.signup-email.jpg)|[<img src="/Dermanifest-Mockup_Design/06.registation.jpg" width="250"/>](/Dermanifest-Mockup_Design/06.registation.jpg)
+[<img src="/Dermanifest-Mockup_Design/07.AccountSetting.jpg" width="250"/>](/Dermanifest-Mockup_Design/07.AccountSetting.jpg)|[<img src="/Dermanifest-Mockup_Design/08.ProductList.jpg" width="250"/>](/Dermanifest-Mockup_Design/08.ProductList.jpg)
+[<img src="/Dermanifest-Mockup_Design/09.ProductDetail.jpg" width="250"/>](/Dermanifest-Mockup_Design/09.ProductDetail.jpg)|[<img src="/Dermanifest-Mockup_Design/10.FormOrder.jpg" width="250"/>](/Dermanifest-Mockup_Design/10.FormOrder.jpg)
+[<img src="/Dermanifest-Mockup_Design/11.Cart.jpg" width="250"/>](/Dermanifest-Mockup_Design/11.Cart.jpg)|[<img src="/Dermanifest-Mockup_Design/12.Compare.jpg" width="250"/>](/Dermanifest-Mockup_Design/12.Compare.jpg)
+[<img src="/Dermanifest-Mockup_Design/13.Compare_2.jpg" width="250"/>](/Dermanifest-Mockup_Design/13.Compare_2.jpg)|[<img src="/Dermanifest-Mockup_Design/14.CareGuide-AWAL.jpg" width="250"/>](/Dermanifest-Mockup_Design/14.CareGuide-AWAL.jpg)
+[<img src="/Dermanifest-Mockup_Design/15.CareGuideWarna.jpg" width="250"/>](/Dermanifest-Mockup_Design/15.CareGuideWarna.jpg)|[<img src="/Dermanifest-Mockup_Design/16.%20Care%20Guide-Kondisi.jpg" width="250"/>](/Dermanifest-Mockup_Design/16.%20Care%20Guide-Kondisi.jpg)
+[<img src="/Dermanifest-Mockup_Design/17.CareGuideJenis.jpg" width="250"/>](/Dermanifest-Mockup_Design/17.CareGuideJenis.jpg)|[<img src="/Dermanifest-Mockup_Design/18.CareGuide-hasil.jpg" width="250"/>](/Dermanifest-Mockup_Design/18.CareGuide-hasil.jpg)
+[<img src="/Dermanifest-Mockup_Design/19.CareGuide-IsiArtikel.jpg" width="250"/>](/Dermanifest-Mockup_Design/19.CareGuide-IsiArtikel.jpg)|[<img src="/Dermanifest-Mockup_Design/Dermanifest_KIT.jpg" width="250"/>](/Dermanifest-Mockup_Design/Dermanifest_KIT.jpg)
 
 ----
 
