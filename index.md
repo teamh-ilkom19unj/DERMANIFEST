@@ -5,6 +5,6 @@ Muhammad Anindyo P. M. (1313619004) <br>
 Putu Sanisa Pascaline (1313619023) <br>
 Handini Aprillia Wijaya (1313619038) <br>
 
-**Hasil Re-Design** | **Hasil Re-Design**
+**Sumber: Google Trends,Skincare** | **Sumber: digimind.id**
 ------------------- | ---------------------------------
-<img height=500 src="./DERMANIFEST/assets/Report_Ecommerce.jpeg">|<img height=500 src="./Design_Solution/design_2_final/03-OB-JK.jpg">
+![google_trends](https://user-images.githubusercontent.com/58965231/99180146-5d3ece80-2756-11eb-8db3-4b298a9a511b.jpeg)|![Report_Ecommerce](https://user-images.githubusercontent.com/58965231/99180149-6465dc80-2756-11eb-9c7a-8f8492c22f1b.jpeg)
