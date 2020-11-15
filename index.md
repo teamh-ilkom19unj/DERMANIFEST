@@ -74,11 +74,11 @@ Segmentasi konsumen dibagi ke -> Profesi sebagai:
 
 Kami menggabungkan kedua segmentasi tersebut di dalam data respon pada pertanyaan berikut ini:
 
-Apa yang akan anda lakukan saat kesulitan menggunakan skincare? >>> (Jawaban bisa lebih dari satu / multi choice) <br> 
+1. Apa yang akan anda lakukan saat kesulitan menggunakan skincare? >>> (Jawaban bisa lebih dari satu / multi choice) <br> 
 
 ![Saat_Kesulitan](https://user-images.githubusercontent.com/58965231/99181632-469e7480-2762-11eb-9b88-4d3b78fa3a00.png)
 
-Apa yang akan menjadi prioritas utama anda dalam menggunakan website kami? >>> (Jawaban bisa lebih dari satu / multi choice) <br>
+2. Apa yang akan menjadi prioritas utama anda dalam menggunakan website kami? >>> (Jawaban bisa lebih dari satu / multi choice) <br>
 
 ![Prioritas_Utama](https://user-images.githubusercontent.com/58965231/99181631-44d4b100-2762-11eb-9a79-a5500158824d.png)
 
