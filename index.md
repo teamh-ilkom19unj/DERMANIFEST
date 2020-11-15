@@ -24,6 +24,7 @@ Untuk mengetahui minat user, kami mengadakan data gathering / pengumpulan data m
 Kuesioner ini kami laksanakan pada Senin, 9 November 2020 sampai dengan Rabu, 11 November 2020. 
 Total responden yang kami kumpulkan adalah 72 responden.
 Pada kuesioner ini, kami menggunakan skala likert 1-5, dengan deskripsi skalanya, yaitu:
+
 a. Sangat perlu/sangat sering/sangat _____ (80%-100%)
 b. Perlu/sering/_____ (60%-79.9%)
 c. Cukup perlu/cukup sering/cukup ____ (40%-59.9%)
@@ -91,3 +92,35 @@ Alur pendaftarannya, yaitu pertama-tama kita masuk ke dalam website. Kemudian, m
 Care Guide adalah fitur yang kami usung dengan tujuan untuk memandu para pengguna, maupun bagi mereka yang kepo dengan skincare agar tidak kebingungan dengan dunia skincare. Dilengkapi dengan beragam artikel menarik dan fitur onboarding untuk mengetahui karakteristik kulit para pengguna.
 Untuk menggunakan fitur Care Guide, pertama kita perlu masuk ke website. Lalu, masuk masuk ke menu “Care Guide”. Di sini ada dua pilihan, yaitu membaca artikel dan mulai onboarding. Jika kita memilih untuk membaca artikel, kita akan langsung bisa membaca artikel apa saja. Jika kita memilih untuk mulai onboarding, kita akan masuk ke menu onboarding. Di menu onboarding, kita akan ditanyakan karakteristik kulit kita. Pertama, memilih warna kulit. Kedua, memilih jenis kulit. Dan ketiga, memilih kondisi kulit. Saat kita memilih jenis dan kondisi kulit, kita tidak sembarangan mengisi karena sistem juga akan membantu anda dalam menentukan pilihan anda dengan memberikan informasi pada setiap pilihan (akan terlihat jelas pada desain mockup nanti). Setelah memilih, kita menekan tombol “Cek Hasil” dan sistem pun mengeceknya. Akhirnya, sistem akan memberikan hasil onboarding dan kita pun membacanya, dan juga diberikan artikel rekomendasi untuk kita baca nantinya.
 
+3. Menggunakan Fitur Comparison <br>
+
+![Menggunakan_fitur_Compare](https://user-images.githubusercontent.com/58965231/99180572-de4b9500-2759-11eb-9111-e4d7ca53ae95.jpg)
+
+Fitur Comparison adalah fitur yang berfungsi untuk membantu user dalam membandingkan produk skincare satu dengan yang lainya. Tujuannya agar user tahu dan tidak salah dalam menggunakan berbagai macam produk skincare yang memiliki beragam fungsi nantinya.
+Untuk menggunakan fitur Comparison, pertama kita masuk ke website. Lalu masuk ke menu “Comparison”. Kemudian kita mencari produk pada kolom search pada panel Compare 1. Setelah itu sistem akan mencarinya, dan kita pilih mana produk yang kita mau. Proses yang sama juga dilakukan  pada panel Compare 2. Jika kedua produk sudah dipilih, kita menekan tombol “Compare” dan sistem pun langsung memproses datanya. Terakhir, sistem menampilkan hasil perbandingan dan langsung kita baca.
+
+4. Membeli Produk <br>
+
+![Membeli_produk](https://user-images.githubusercontent.com/58965231/99180569-ddb2fe80-2759-11eb-9aa6-258dc08070c7.jpg)
+
+Fitur ini adalah fitur yang berfungsi sebagai penyedia berbagai macam produk skincare agar dapat dibeli oleh user nantinya
+Untuk menggunakan fitur ini, pertama kita masuk ke website dan melakukan log in. Setelah itu, kita masuk ke menu “Produk”. Di menu tersebut, kita dapat memilih produk yang mau dibeli dan sistem pun akan memberikan form order. Selanjutnya, kita mengisi form order dan mengkonfirmasinya untuk lanjut atau batal. Jika batal kita kembali memilih produk. Jika lanjut, sistem akan memutuskan order, apakah valid atau tidak. Jika ditolak, dikembalikan ke halaman mengisi form. Jika diterima, maka penawaran diterima dan diberikan kepada user untuk menyelesaikan transaksi.
+
+**Berikut mockup design nya: **
+
+**Hasil Re-Design** | **Hasil Re-Design**
+------------------- | ---------------------------------
+<img height=500 src="./Design_Solution/design_2_final/02-Menu_Profil_dan_Start_Onboarding.jpg">|<img height=500 src="./Design_Solution/design_2_final/03-OB-JK.jpg">
+<img height=500 src="./Design_Solution/design_2_final/04-OB-Umur.jpg">|<img height=500 src="./Design_Solution/design_2_final/05-OB-StatHamil.jpg">
+<img height=500 src="./Design_Solution/design_2_final/06-OB-RiwSakit.jpg">|<img height=500 src="./Design_Solution/design_2_final/07-OB-ENDING.jpg">
+<img height=500 src="./Design_Solution/design_2_final/08-HOME.jpg">|<img height=500 src="./Design_Solution/design_2_final/09-Buku_Saku.jpg">
+<img height=500 src="./Design_Solution/design_2_final/10-PersiapanNikah.jpg">|<img height=500 src="./Design_Solution/design_2_final/11-ARTIKEL_BUKU_SAKU.jpg">
+<img height=500 src="./Design_Solution/design_2_final/12-Cek_Layak_Hamil.jpg">|<img height=500 src="./Design_Solution/design_2_final/13-CLH_DOWN_KEBUKA-BOLE_HAMIL-1.jpg">
+<img height=500 src="./Design_Solution/design_2_final/14-CLH DOWN_KEBUKA_BOLE_HAMIL.jpg">|<img height=500 src="./Design_Solution/design_2_final/15-layak_hamil.jpg">
+<img height=500 src="./Design_Solution/design_2_final/15.5-tidak_layak.jpg">|<img height=500 src="./Design_Solution/design_2_final/16-CLH_DOWN_KEBUKA-GABOLE_HAMIL.jpg">
+<img height=500 src="./Design_Solution/design_2_final/17-artikel_talasemia.jpg">|<img height=500 src="./Design_Solution/design_2_final/7.5-Hasil_Onboarding.jpg">
+
+
+## Penutup 
+
+I WANNA THANK GOD, MY MUM, MY BIG SIS, MY DOSEN, MY FANS, & MY LOYAL HATERS BCS WITHOUT THEIR PRESENCE, I WOULD NEVER BEEN HERE THIS FAR. I WANNA APPRECIATE YOU ALL SO SO MUCH AND I CANT WAIT YOU GUYS TO SPEND YOUR MONEY ON OUR WEBSITE. LOVE TEAM H XXXOOO
