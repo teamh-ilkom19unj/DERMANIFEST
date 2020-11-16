@@ -140,12 +140,9 @@ Untuk menggunakan fitur ini, pertama kita masuk ke website dan melakukan log in.
 ![16  Care Guide-Kondisi](https://user-images.githubusercontent.com/58965231/99216058-473d1680-2807-11eb-9e96-545a5b9ed86d.jpg) <br>
 ![17 CareGuideJenis](https://user-images.githubusercontent.com/58965231/99216067-4dcb8e00-2807-11eb-9737-a82298eb9194.jpg) <br>
 ![18 CareGuide-hasil](https://user-images.githubusercontent.com/58965231/99216076-54f29c00-2807-11eb-8279-4e96e0a0d41d.jpg) <br>
-![19 CareGuide-IsiArtikel](https://user-images.githubusercontent.com/58965231/99216105-5fad3100-2807-11eb-9ffb-cba692989063.jpg) <br>
-![Dermanifest_KIT](https://user-images.githubusercontent.com/58965231/99215824-ac443c80-2806-11eb-9fc2-f3279273da95.jpg)
+![IsiArtikel](https://user-images.githubusercontent.com/58965231/99219679-c2a2c600-280f-11eb-920c-953143e9f433.jpeg) <br>
+![Dermanifest_KIT](https://user-images.githubusercontent.com/58965231/99215824-ac443c80-2806-11eb-9fc2-f3279273da95.jpg) <br>
 
 
 ----
 
-## Penutup 
-
-I WANNA THANK GOD, MY MUM, MY BIG SIS, MY DOSEN, MY FANS, & MY LOYAL HATERS BCS WITHOUT THEIR PRESENCE, I WOULD NEVER BEEN HERE THIS FAR. I WANNA APPRECIATE YOU ALL SO SO MUCH AND I CANT WAIT YOU GUYS TO SPEND YOUR MONEY ON OUR WEBSITE. LOVE TEAM H XXXOOO
