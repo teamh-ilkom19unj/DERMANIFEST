@@ -121,8 +121,8 @@ Fitur ini adalah fitur yang berfungsi sebagai penyedia berbagai macam produk ski
 Untuk menggunakan fitur ini, pertama kita masuk ke website dan melakukan log in. Setelah itu, kita masuk ke menu “Produk”. Di menu tersebut, kita dapat memilih produk yang mau dibeli dan sistem pun akan memberikan form order. Selanjutnya, kita mengisi form order dan mengkonfirmasinya untuk lanjut atau batal. Jika batal kita kembali memilih produk. Jika lanjut, sistem akan memutuskan order, apakah valid atau tidak. Jika ditolak, dikembalikan ke halaman mengisi form. Jika diterima, maka penawaran diterima dan diberikan kepada user untuk menyelesaikan transaksi.
 
 **Berikut mockup design nya:** 
-**Hasil Re-Design** | **Hasil Re-Design**
-------------------- | ---------------------------------
+**Hasil Mock-Up** | 
+------------------- |
 ![01 LANDING_PAGE-SEBELUM_LOGIN](https://user-images.githubusercontent.com/58965231/99215841-b2d2b400-2806-11eb-879d-fb1f7e57c907.jpg) <br>
 ![02 LANDING_PAGE-SETELAH_LOGIN](https://user-images.githubusercontent.com/58965231/99215865-c3832a00-2806-11eb-937f-ee205cc02f4f.jpg) <br>
 ![04 login](https://user-images.githubusercontent.com/58965231/99215915-e9a8ca00-2806-11eb-9d17-ebcdc5257913.jpg) <br>
@@ -141,6 +141,7 @@ Untuk menggunakan fitur ini, pertama kita masuk ke website dan melakukan log in.
 ![17 CareGuideJenis](https://user-images.githubusercontent.com/58965231/99216067-4dcb8e00-2807-11eb-9737-a82298eb9194.jpg) <br>
 ![18 CareGuide-hasil](https://user-images.githubusercontent.com/58965231/99216076-54f29c00-2807-11eb-8279-4e96e0a0d41d.jpg) <br>
 ![19 CareGuide-IsiArtikel](https://user-images.githubusercontent.com/58965231/99216105-5fad3100-2807-11eb-9ffb-cba692989063.jpg) <br>
+![Dermanifest_KIT](https://user-images.githubusercontent.com/58965231/99215824-ac443c80-2806-11eb-9fc2-f3279273da95.jpg)
 
 
 ----
