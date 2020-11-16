@@ -16,7 +16,7 @@ Ditunjukkan bahwa kata “Skincare” menjadi tren yang stable yang hingga hari 
 
 Untuk menghindari diri dari berbagai macam masalah pada kulit, banyak orang yang menggunakan produk skincare seperti masker, facial wash, serum, pelembab, dan sun protection. Namun, apakah mereka mengetahui betul produk-produk skincare tersebut? Apakah mereka tahu kegunaannya? Atau perbedaannya? Atau jangan-jangan mereka tidak tahu dengan karakteristik kulit mereka sendiri? Jawabannya bisa iya, bisa tidak. 
 	Oleh karena itu, kami, Team H, memiliki inisiatif untuk mengembangkan web app e-commerce sebagai penyedia produk skincare, sekaligus sebagai sistem informasi bagi pengguna skincare maupun bagi mereka yang kepo dengan skincare.
-	Kami menamakan web app kami dengan nama, Dermanifest. Berasal dari kata “derma” yang artinya kulit dan “manifest” yang artinya manifestasi / perwujudan sehingga jika disatukan akan menjadi “perwujudan kulit” agar menjadi lebih sempurna tentunya, sesuai dengan tagline kami “ManifestING your perfect skin!”
+	Kami menamakan web app kami dengan nama, Dermanifest. Berasal dari kata “derma” yang artinya kulit dan “manifest” yang artinya manifestasi / perwujudan sehingga jika disatukan akan menjadi “perwujudan kulit” agar menjadi lebih sempurna tentunya, sesuai dengan tagline kami “Manifesting your perfect skin!”
 
 ![LOGOHCI](https://user-images.githubusercontent.com/58965231/99179510-329e4700-2751-11eb-8792-3ce10532a24e.jpeg)
 
@@ -78,11 +78,11 @@ Segmentasi konsumen dibagi ke -> Profesi sebagai:
 
 Kami menggabungkan kedua segmentasi tersebut di dalam data respon pada pertanyaan berikut ini:
 
-1. Apa yang akan anda lakukan saat kesulitan menggunakan skincare? >>> (Jawaban bisa lebih dari satu / multi choice) <br> 
+1. Apa yang akan anda lakukan saat kesulitan menggunakan skincare? >>> (Jawaban bisa lebih dari satu /Check Box Questions) <br> 
 
 ![Saat_Kesulitan](https://user-images.githubusercontent.com/58965231/99181632-469e7480-2762-11eb-9b88-4d3b78fa3a00.png)
 
-2. Apa yang akan menjadi prioritas utama anda dalam menggunakan website kami? >>> (Jawaban bisa lebih dari satu / multi choice) <br>
+2. Apa yang akan menjadi prioritas utama anda dalam menggunakan website kami? >>> (Jawaban bisa lebih dari satu /Check Box Questions) <br>
 
 ![Prioritas_Utama](https://user-images.githubusercontent.com/58965231/99181631-44d4b100-2762-11eb-9a79-a5500158824d.png)
 
