@@ -123,15 +123,25 @@ Untuk menggunakan fitur ini, pertama kita masuk ke website dan melakukan log in.
 **Berikut mockup design nya:** 
 **Hasil Re-Design** | **Hasil Re-Design**
 ------------------- | ---------------------------------
-![01 LANDING_PAGE-SEBELUM_LOGIN](https://user-images.githubusercontent.com/58965231/99215841-b2d2b400-2806-11eb-879d-fb1f7e57c907.jpg)|![02 LANDING_PAGE-SETELAH_LOGIN](https://user-images.githubusercontent.com/58965231/99215865-c3832a00-2806-11eb-937f-ee205cc02f4f.jpg)
-![04 login](https://user-images.githubusercontent.com/58965231/99215915-e9a8ca00-2806-11eb-9d17-ebcdc5257913.jpg)|![05 signup-email](https://user-images.githubusercontent.com/58965231/99215930-f2010500-2806-11eb-8794-5491d83552ff.jpg)
-[<img src="/Dermanifest-Mockup_Design/07.AccountSetting.jpg" width="250"/>](/Dermanifest-Mockup_Design/07.AccountSetting.jpg)|[<img src="/Dermanifest-Mockup_Design/08.ProductList.jpg" width="250"/>](/Dermanifest-Mockup_Design/08.ProductList.jpg)
-[<img src="/Dermanifest-Mockup_Design/09.ProductDetail.jpg" width="250"/>](/Dermanifest-Mockup_Design/09.ProductDetail.jpg)|[<img src="/Dermanifest-Mockup_Design/10.FormOrder.jpg" width="250"/>](/Dermanifest-Mockup_Design/10.FormOrder.jpg)
-[<img src="/Dermanifest-Mockup_Design/11.Cart.jpg" width="250"/>](/Dermanifest-Mockup_Design/11.Cart.jpg)|[<img src="/Dermanifest-Mockup_Design/12.Compare.jpg" width="250"/>](/Dermanifest-Mockup_Design/12.Compare.jpg)
-[<img src="/Dermanifest-Mockup_Design/13.Compare_2.jpg" width="250"/>](/Dermanifest-Mockup_Design/13.Compare_2.jpg)|[<img src="/Dermanifest-Mockup_Design/14.CareGuide-AWAL.jpg" width="250"/>](/Dermanifest-Mockup_Design/14.CareGuide-AWAL.jpg)
-[<img src="/Dermanifest-Mockup_Design/15.CareGuideWarna.jpg" width="250"/>](/Dermanifest-Mockup_Design/15.CareGuideWarna.jpg)|[<img src="/Dermanifest-Mockup_Design/16.%20Care%20Guide-Kondisi.jpg" width="250"/>](/Dermanifest-Mockup_Design/16.%20Care%20Guide-Kondisi.jpg)
-[<img src="/Dermanifest-Mockup_Design/17.CareGuideJenis.jpg" width="250"/>](/Dermanifest-Mockup_Design/17.CareGuideJenis.jpg)|[<img src="/Dermanifest-Mockup_Design/18.CareGuide-hasil.jpg" width="250"/>](/Dermanifest-Mockup_Design/18.CareGuide-hasil.jpg)
-[<img src="/Dermanifest-Mockup_Design/19.CareGuide-IsiArtikel.jpg" width="250"/>](/Dermanifest-Mockup_Design/19.CareGuide-IsiArtikel.jpg)|[<img src="/Dermanifest-Mockup_Design/Dermanifest_KIT.jpg" width="250"/>](/Dermanifest-Mockup_Design/Dermanifest_KIT.jpg)
+![01 LANDING_PAGE-SEBELUM_LOGIN](https://user-images.githubusercontent.com/58965231/99215841-b2d2b400-2806-11eb-879d-fb1f7e57c907.jpg) <br>
+![02 LANDING_PAGE-SETELAH_LOGIN](https://user-images.githubusercontent.com/58965231/99215865-c3832a00-2806-11eb-937f-ee205cc02f4f.jpg) <br>
+![04 login](https://user-images.githubusercontent.com/58965231/99215915-e9a8ca00-2806-11eb-9d17-ebcdc5257913.jpg) <br>
+![05 signup-email](https://user-images.githubusercontent.com/58965231/99215930-f2010500-2806-11eb-8794-5491d83552ff.jpg) <br>
+![06 registation](https://user-images.githubusercontent.com/58965231/99215935-f5948c00-2806-11eb-9c09-16d28441ffe4.jpg) <br>
+![07 AccountSetting](https://user-images.githubusercontent.com/58965231/99215943-faf1d680-2806-11eb-9ad8-d9fb36d0e9ed.jpg) <br>
+![08 ProductList](https://user-images.githubusercontent.com/58965231/99215956-02b17b00-2807-11eb-9f3a-913ca38d4cf0.jpg) <br>
+![09 ProductDetail](https://user-images.githubusercontent.com/58965231/99215968-0c3ae300-2807-11eb-84e4-5ffcd2e3fd2c.jpg) <br>
+![10 FormOrder](https://user-images.githubusercontent.com/58965231/99215979-12c95a80-2807-11eb-933d-784f351c80b1.jpg) <br>
+![11 Cart](https://user-images.githubusercontent.com/58965231/99215985-18bf3b80-2807-11eb-83c2-9f7b6b7a44fa.jpg) <br>
+![12 Compare](https://user-images.githubusercontent.com/58965231/99215992-1eb51c80-2807-11eb-9a84-085634c61056.jpg) <br>
+![13 Compare_2](https://user-images.githubusercontent.com/58965231/99216003-24126700-2807-11eb-9341-01591250b872.jpg) <br>
+![14 CareGuide-AWAL](https://user-images.githubusercontent.com/58965231/99216019-2d9bcf00-2807-11eb-9471-76d95d0c0255.jpg) <br>
+![15 CareGuideWarna](https://user-images.githubusercontent.com/58965231/99216049-41473580-2807-11eb-955f-5a974d7bf7d3.jpg) <br>
+![16  Care Guide-Kondisi](https://user-images.githubusercontent.com/58965231/99216058-473d1680-2807-11eb-9e96-545a5b9ed86d.jpg) <br>
+![17 CareGuideJenis](https://user-images.githubusercontent.com/58965231/99216067-4dcb8e00-2807-11eb-9737-a82298eb9194.jpg) <br>
+![18 CareGuide-hasil](https://user-images.githubusercontent.com/58965231/99216076-54f29c00-2807-11eb-8279-4e96e0a0d41d.jpg) <br>
+![19 CareGuide-IsiArtikel](https://user-images.githubusercontent.com/58965231/99216105-5fad3100-2807-11eb-9ffb-cba692989063.jpg) <br>
+
 
 ----
 
