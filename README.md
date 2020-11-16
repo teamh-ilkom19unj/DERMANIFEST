@@ -7,7 +7,9 @@ Handini Aprillia Wijaya (1313619038) <br>
 
 ## 1st Phase
 
-**
+<a href = "https://github.com/teamh-ilkom19unj/DERMANIFEST/blob/main/MINI_REPORT.md"> Mini Report</a>
+
+
 
 ## 2nd Phase
 
