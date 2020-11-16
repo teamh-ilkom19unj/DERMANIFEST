@@ -123,8 +123,8 @@ Untuk menggunakan fitur ini, pertama kita masuk ke website dan melakukan log in.
 **Berikut mockup design nya:** 
 **Hasil Re-Design** | **Hasil Re-Design**
 ------------------- | ---------------------------------
-{{ /Dermanifest-Mockup_Design/01.LANDING_PAGE-SEBELUM_LOGIN.jpg:img?width=250&height=250 alt='landingpage' }}|{{ /Dermanifest-Mockup_Design/04.login.jpg:img?width=250&height=250 alt='login' }}
-[<img src="/Dermanifest-Mockup_Design/05.signup-email.jpg" width="250"/>](/Dermanifest-Mockup_Design/05.signup-email.jpg)|[<img src="/Dermanifest-Mockup_Design/06.registation.jpg" width="250"/>](/Dermanifest-Mockup_Design/06.registation.jpg)
+![01 LANDING_PAGE-SEBELUM_LOGIN](https://user-images.githubusercontent.com/58965231/99215841-b2d2b400-2806-11eb-879d-fb1f7e57c907.jpg)|![02 LANDING_PAGE-SETELAH_LOGIN](https://user-images.githubusercontent.com/58965231/99215865-c3832a00-2806-11eb-937f-ee205cc02f4f.jpg)
+![04 login](https://user-images.githubusercontent.com/58965231/99215915-e9a8ca00-2806-11eb-9d17-ebcdc5257913.jpg)|![05 signup-email](https://user-images.githubusercontent.com/58965231/99215930-f2010500-2806-11eb-8794-5491d83552ff.jpg)
 [<img src="/Dermanifest-Mockup_Design/07.AccountSetting.jpg" width="250"/>](/Dermanifest-Mockup_Design/07.AccountSetting.jpg)|[<img src="/Dermanifest-Mockup_Design/08.ProductList.jpg" width="250"/>](/Dermanifest-Mockup_Design/08.ProductList.jpg)
 [<img src="/Dermanifest-Mockup_Design/09.ProductDetail.jpg" width="250"/>](/Dermanifest-Mockup_Design/09.ProductDetail.jpg)|[<img src="/Dermanifest-Mockup_Design/10.FormOrder.jpg" width="250"/>](/Dermanifest-Mockup_Design/10.FormOrder.jpg)
 [<img src="/Dermanifest-Mockup_Design/11.Cart.jpg" width="250"/>](/Dermanifest-Mockup_Design/11.Cart.jpg)|[<img src="/Dermanifest-Mockup_Design/12.Compare.jpg" width="250"/>](/Dermanifest-Mockup_Design/12.Compare.jpg)
