@@ -120,11 +120,10 @@ Untuk menggunakan fitur Comparison, pertama kita masuk ke website. Lalu masuk ke
 Fitur ini adalah fitur yang berfungsi sebagai penyedia berbagai macam produk skincare agar dapat dibeli oleh user nantinya
 Untuk menggunakan fitur ini, pertama kita masuk ke website dan melakukan log in. Setelah itu, kita masuk ke menu “Produk”. Di menu tersebut, kita dapat memilih produk yang mau dibeli dan sistem pun akan memberikan form order. Selanjutnya, kita mengisi form order dan mengkonfirmasinya untuk lanjut atau batal. Jika batal kita kembali memilih produk. Jika lanjut, sistem akan memutuskan order, apakah valid atau tidak. Jika ditolak, dikembalikan ke halaman mengisi form. Jika diterima, maka penawaran diterima dan diberikan kepada user untuk menyelesaikan transaksi.
 
-**Berikut mockup design nya:** 04.login.jpg
-{{ /Dermanifest-Mockup_Design/01.LANDING_PAGE-SEBELUM_LOGIN.jpg:img?width=350 alt='lala-34a' }}
+**Berikut mockup design nya:** 
 **Hasil Re-Design** | **Hasil Re-Design**
 ------------------- | ---------------------------------
-{{ /Dermanifest-Mockup_Design/01.LANDING_PAGE-SEBELUM_LOGIN.jpg:img?width=350 alt='lala-34a' }}|{{ /Dermanifest-Mockup_Design/04.login.jpg:img?width=350 alt='lala-34a' }}
+{{ /Dermanifest-Mockup_Design/01.LANDING_PAGE-SEBELUM_LOGIN.jpg:img?width=350 alt='landingpage' }}|{{ /Dermanifest-Mockup_Design/04.login.jpg:img?width=350 alt='lala-34a' }}
 [<img src="/Dermanifest-Mockup_Design/05.signup-email.jpg" width="250"/>](/Dermanifest-Mockup_Design/05.signup-email.jpg)|[<img src="/Dermanifest-Mockup_Design/06.registation.jpg" width="250"/>](/Dermanifest-Mockup_Design/06.registation.jpg)
 [<img src="/Dermanifest-Mockup_Design/07.AccountSetting.jpg" width="250"/>](/Dermanifest-Mockup_Design/07.AccountSetting.jpg)|[<img src="/Dermanifest-Mockup_Design/08.ProductList.jpg" width="250"/>](/Dermanifest-Mockup_Design/08.ProductList.jpg)
 [<img src="/Dermanifest-Mockup_Design/09.ProductDetail.jpg" width="250"/>](/Dermanifest-Mockup_Design/09.ProductDetail.jpg)|[<img src="/Dermanifest-Mockup_Design/10.FormOrder.jpg" width="250"/>](/Dermanifest-Mockup_Design/10.FormOrder.jpg)
