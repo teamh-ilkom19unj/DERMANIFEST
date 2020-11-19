@@ -60,8 +60,7 @@ Segmentasi konsumen dibagi ke -> Profesi sebagai:
 4. Apakah anda sering kesulitan membedakan jenis skincare? = 70% (Sering)
 5. Perlukah adanya platform sumber informasi dan pengetahuan sentra seputar skincare dalam bentuk website? = 78% (Sering)
 6. Perlukah adanya perbandingan antara produk skincare dalam pada website kami nantinya? = 82% (Sangat perlu)
-7. Apakah anda akan terbantu jika diadakan konsultasi secara daring / online pada website kami? = 80% (Sangat terbantu)
-8. Apakah anda akan tertarik untuk mengunjungi website kami jika ada panduan lengkap mengenai perawatan kulit? = 76% (Tertarik)
+7. Apakah anda akan tertarik untuk mengunjungi website kami jika ada panduan lengkap mengenai perawatan kulit? = 76% (Tertarik)
 
 
 - Pelajar/Mahasiswa
@@ -71,8 +70,7 @@ Segmentasi konsumen dibagi ke -> Profesi sebagai:
 4. Apakah anda sering kesulitan membedakan jenis skincare? = 63% (Sering)
 5. Perlukah adanya platform sumber informasi dan pengetahuan sentra seputar skincare dalam bentuk website? = 80% (Sangat perlu)
 6. Perlukah adanya perbandingan antara produk skincare dalam pada website kami nantinya? = 85% (Sangat perlu)
-7. Apakah anda akan terbantu jika diadakan konsultasi secara daring / online pada website kami? = 83% (Sangat perlu)
-8.Apakah anda akan tertarik untuk mengunjungi website kami jika ada panduan lengkap mengenai perawatan kulit? = 82% (Sangat perlu)
+7. Apakah anda akan tertarik untuk mengunjungi website kami jika ada panduan lengkap mengenai perawatan kulit? = 82% (Sangat perlu)
 
 ---- 
 
@@ -170,7 +168,6 @@ Untuk menggunakan fitur ini, pertama kita masuk ke website dan melakukan log in.
 * Care Guide (Onboarding)
 
 ![14 CareGuide-AWAL](https://user-images.githubusercontent.com/58965231/99216019-2d9bcf00-2807-11eb-9471-76d95d0c0255.jpg) <br>
-
 
 * Care Guide Warna Kulit
 
