@@ -16,4 +16,4 @@ Handini Aprillia Wijaya (1313619038) <br>
 <a href = "https://www.youtube.com/watch?v=_SoccZ7_Shg&feature=youtu.be"> Conference 2nd Phase by Team H</a>
 
 
-<a href = "https://www.youtube.com/watch?v=_SoccZ7_Shg&feature=youtu.be"> Report Writing/a>
+<a href = "https://www.youtube.com/watch?v=_SoccZ7_Shg&feature=youtu.be"> Report Writing</a>
