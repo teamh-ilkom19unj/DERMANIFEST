@@ -1,8 +1,8 @@
 # DERMANIFEST
 
 ## TEAM H
-Muhammad Anindyo P. M. (1313619004) <br>
-Putu Sanisa Pascaline (1313619023) <br>
+Muhammad Anindyo P. M. (1313619004) <a href = "https://github.com/anindyoo"> anindyoo </a> <br>
+Putu Sanisa Pascaline (1313619023) <a href = "https://github.com/sanisa pascaline"> sanisapascaline </a> <br>
 Handini Aprillia Wijaya (1313619038) <br>
 
 ## First Phase
