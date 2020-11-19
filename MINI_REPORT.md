@@ -25,11 +25,15 @@ Kuesioner ini kami laksanakan pada Senin, 9 November 2020 sampai dengan Rabu, 11
 Total responden yang kami kumpulkan adalah 72 responden.
 Pada kuesioner ini, kami menggunakan skala likert 1-5, dengan deskripsi skalanya, yaitu:
 
-**a. Sangat perlu/sangat sering/sangat ___ (80%-100%)** <br>
-**b. Perlu/sering/___ (60%-79.9%)** <br>
-**c. Cukup perlu/cukup sering/cukup ___ (40%-59.9%)** <br>
-**d. Kurang perlu/kurang sering/kurang ___ (20%-39.9%)** <br>
-**e. Tidak perlu/tidak sering/tidak ___ (0%-19.9%)** <br>
+
+**Item** | **Rentang Skor**
+------------------- | ---------------------------------
+Sangat Perlu/Sangat Sering/Sangat ___  |(80%-100%)
+Perlu/Sering/ ___ |(60%-79.9%)
+Cukup Perlu/Cukup Sering/Cukup ___ |(40%-59.9%)
+Kurang Perlu/Kurang Sering/Kurang ___  |(20%-39.9%)
+Tidak Perlu/Tidak Sering/Tidak |(0%-19.9%)
+
 
 Setelah data terkumpul, kami menghitungnya dengan membagi / mensegmentasikannya menjadi 2 grup profesi yang menjadi mayoritas, yaitu grup pekerja dan grup pelajar / mahasiswa. 
 Kami menghitung data dengan perhitungan skor skala likert. Cara perhitungannya yaitu:
@@ -116,27 +120,80 @@ Untuk menggunakan fitur Comparison, pertama kita masuk ke website. Lalu masuk ke
 Fitur ini adalah fitur yang berfungsi sebagai penyedia berbagai macam produk skincare agar dapat dibeli oleh user nantinya
 Untuk menggunakan fitur ini, pertama kita masuk ke website dan melakukan log in. Setelah itu, kita masuk ke menu “Produk”. Di menu tersebut, kita dapat memilih produk yang mau dibeli dan sistem pun akan memberikan form order. Selanjutnya, kita mengisi form order dan mengkonfirmasinya untuk lanjut atau batal. Jika batal kita kembali memilih produk. Jika lanjut, sistem akan memutuskan order, apakah valid atau tidak. Jika ditolak, dikembalikan ke halaman mengisi form. Jika diterima, maka penawaran diterima dan diberikan kepada user untuk menyelesaikan transaksi.
 
-**Berikut mockup design nya:** 
-**Hasil Mock-Up** | 
-------------------- |
+* Landing Page Sebelum Login
+
 ![01 LANDING_PAGE-SEBELUM_LOGIN](https://user-images.githubusercontent.com/58965231/99215841-b2d2b400-2806-11eb-879d-fb1f7e57c907.jpg) <br>
+
+* Landing Page Setelah Login 
+
 ![02 LANDING_PAGE-SETELAH_LOGIN](https://user-images.githubusercontent.com/58965231/99215865-c3832a00-2806-11eb-937f-ee205cc02f4f.jpg) <br>
+
+* Log in 
+
 ![04 login](https://user-images.githubusercontent.com/58965231/99215915-e9a8ca00-2806-11eb-9d17-ebcdc5257913.jpg) <br>
+
+* Sign Up
 ![05 signup-email](https://user-images.githubusercontent.com/58965231/99215930-f2010500-2806-11eb-8794-5491d83552ff.jpg) <br>
+
+* Registration
+
 ![06 registation](https://user-images.githubusercontent.com/58965231/99215935-f5948c00-2806-11eb-9c09-16d28441ffe4.jpg) <br>
+
+* Account Setting
+
 ![07 AccountSetting](https://user-images.githubusercontent.com/58965231/99215943-faf1d680-2806-11eb-9ad8-d9fb36d0e9ed.jpg) <br>
+
+* Product List
+
 ![08 ProductList](https://user-images.githubusercontent.com/58965231/99215956-02b17b00-2807-11eb-9f3a-913ca38d4cf0.jpg) <br>
+
+* Product Detail
+
 ![09 ProductDetail](https://user-images.githubusercontent.com/58965231/99215968-0c3ae300-2807-11eb-84e4-5ffcd2e3fd2c.jpg) <br>
+
+* Form Order
+
 ![10 FormOrder](https://user-images.githubusercontent.com/58965231/99215979-12c95a80-2807-11eb-933d-784f351c80b1.jpg) <br>
+
+* Cart
+
 ![11 Cart](https://user-images.githubusercontent.com/58965231/99215985-18bf3b80-2807-11eb-83c2-9f7b6b7a44fa.jpg) <br>
+
+* Compare
+
 ![12 Compare](https://user-images.githubusercontent.com/58965231/99215992-1eb51c80-2807-11eb-9a84-085634c61056.jpg) <br>
+
+* Compare with Drop Down
+
 ![13 Compare_2](https://user-images.githubusercontent.com/58965231/99216003-24126700-2807-11eb-9341-01591250b872.jpg) <br>
+
+* Care Guide (Onboarding)
+
 ![14 CareGuide-AWAL](https://user-images.githubusercontent.com/58965231/99216019-2d9bcf00-2807-11eb-9471-76d95d0c0255.jpg) <br>
+
+
+* Care Guide Warna Kulit
+
 ![15 CareGuideWarna](https://user-images.githubusercontent.com/58965231/99216049-41473580-2807-11eb-955f-5a974d7bf7d3.jpg) <br>
+
+* Care Guide Kondisi Kulit
+
 ![16  Care Guide-Kondisi](https://user-images.githubusercontent.com/58965231/99216058-473d1680-2807-11eb-9e96-545a5b9ed86d.jpg) <br>
+
+* Care Guide Jenis Kulit
+
 ![17 CareGuideJenis](https://user-images.githubusercontent.com/58965231/99216067-4dcb8e00-2807-11eb-9737-a82298eb9194.jpg) <br>
+
+* Care Guide Hasil Onboarding
+
 ![18 CareGuide-hasil](https://user-images.githubusercontent.com/58965231/99216076-54f29c00-2807-11eb-8279-4e96e0a0d41d.jpg) <br>
+
+* Cara guide Isi Artikel
+
 ![IsiArtikel](https://user-images.githubusercontent.com/58965231/99219679-c2a2c600-280f-11eb-920c-953143e9f433.jpeg) <br>
+
+* Dermanifest KIT GUIDE
+
 ![Dermanifest_KIT](https://user-images.githubusercontent.com/58965231/99215824-ac443c80-2806-11eb-9fc2-f3279273da95.jpg) <br>
 
 
