@@ -47,10 +47,6 @@ ul{
 	margin-right: auto !important;
 }
 
-.isi-nav{
-	padding-right: 450px !important;
-}
-
 .logo img{
 	width: 155px;
 	height: 40px;
@@ -73,7 +69,16 @@ ul{
 }
 
 .isi-nav a{
-	color: black;
+	color: black;	
+	transition: 0.4s;
+}
+
+.isi-nav a:hover{
+	padding: 12px;
+	text-decoration: none;
+	color: white;
+	transition: 0.3s;
+	background: #6A8D73;
 }
 
 .cart{
@@ -102,6 +107,8 @@ ul{
 	background-color: #E4FFE1 !important;
 }
 /*====================================[H E A D E R]===========================================*/
+
+
 
 
 /*====================================[C O N T E N T]===========================================*/
