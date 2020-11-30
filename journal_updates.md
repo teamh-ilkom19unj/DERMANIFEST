@@ -5,3 +5,9 @@ Kami mengadakan meeting team-h untuk mendiskusikan tugas yang diberikan serta ka
 
 ## 28 November 2020
 * Membuat Webpage Product-list
+
+## 29 November 2020
+* Mengupdate Webpagre Product-list
+
+## 30 November 2020
+* Membuat Webpage Landing Page
