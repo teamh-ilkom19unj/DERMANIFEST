@@ -6,8 +6,4 @@
 * Putu Sanisa Pascaline (1313619023)
 * Handini Aprillia Wijaya (1313619038) 
 
-## Report Writing
-
-**
-
-## Github Pages
+HELLO
