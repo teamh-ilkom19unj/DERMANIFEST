@@ -217,7 +217,23 @@ background: linear-gradient(180deg, rgba(240,168,104,1) 45%, rgba(241,176,119,1)
 	padding: 10px 0;
 }
 
+.fitur img{
+	width: 70%;
+	height: auto;
+}
 
+.fitur .beli img{
+	width: 50%;
+}
+
+.fitur .care img{
+	width: 65%;
+}
+
+.outro img{
+	width: 25%;
+	height: auto;
+}
 
 /*====================================[C O N T E N T]===========================================*/
 
