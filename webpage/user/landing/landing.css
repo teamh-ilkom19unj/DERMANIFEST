@@ -235,6 +235,25 @@ background: linear-gradient(180deg, rgba(240,168,104,1) 45%, rgba(241,176,119,1)
 	height: auto;
 }
 
+.outro{
+	height: 470px !important;
+}
+
+.outro-pic img{
+	width: 25%;
+	height: auto;
+}
+
+.isi-outro h2{
+	color: black;
+	font-weight: 700;
+}
+
+.isi-outro h2 a{
+	font-size: 36px !important;
+	font-family: 'Sacramento', cursive;
+}
+
 /*====================================[C O N T E N T]===========================================*/
 
 
@@ -242,7 +261,6 @@ background: linear-gradient(180deg, rgba(240,168,104,1) 45%, rgba(241,176,119,1)
 
 /*=======================================[F O O T E R]==========================================*/
 .footer {
-	margin-top: 30px;
 	background: #1f1f1f;
 	height: 80px;
 	font-size: 16px;
