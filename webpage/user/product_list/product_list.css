@@ -274,6 +274,14 @@ ul{
 		margin-bottom: 30px
 	}
 }
+
+button{
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+button:hover{
+	box-shadow: inset 0px 0px 10px rgba(0,0,0,0.3);
+}
 /*====================================[C O N T E N T]===========================================*/
 
 
