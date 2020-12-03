@@ -14,3 +14,4 @@ Kami mengadakan meeting team-h untuk mendiskusikan tugas yang diberikan serta ka
 
 ## 3 Desember 2020
 * Membuat Webpage Log In 
+* Menambahkan Produk ke Produk List
