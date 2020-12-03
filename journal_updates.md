@@ -11,3 +11,6 @@ Kami mengadakan meeting team-h untuk mendiskusikan tugas yang diberikan serta ka
 
 ## 30 November 2020
 * Membuat Webpage Landing Page
+
+## 3 Desember 2020
+* Membuat Webpage Log In 
