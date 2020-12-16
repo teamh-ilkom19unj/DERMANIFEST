@@ -39,18 +39,14 @@
 					        <th style="width: 25%;"><b>Price</b></th>
 				      	</tr>
 				    </thead>
-				    <tbody>
-					    <tr>
-						    <td>nama item</td>
-						    <td>jumlahx</td>
-						    <td>Rp100.000</td>
-					    </tr>
+				    <tbody id="isi-item">
+					    
 				    </tbody>
 				    <tbody>
 					    <tr style="background-color: #FFE8C2;">
 						    <td></td>
 						    <td>Subtotal</td>
-						    <td>Rp100.000</td>
+						    <td id="total">Rp0/td>
 					    </tr>
 				    </tbody>
 				</table>
@@ -204,11 +200,28 @@
 	})();
 	</script>
 
+	<!---RETRIEVE CART----->
 	<script type="text/javascript" src="https://cdn.chec.io/v2/commerce.js"></script>
 	<script>
 		const commerce = new Commerce('pk_198151521f223e07df237e6a4e021d27b0114da5ccaef', true);
-		commerce.products.list().then((products) => {
-			console.log(products)
+
+		//Untuk menampilkan isi cart
+		commerce.cart.retrieve('cart_3wpJXYgAm6ZE75').then((cart) => {
+			console.log(cart)
+
+			let item = '';
+
+			cart.line_items.forEach((items) => {
+				  item +=
+				  	`<tr>
+						  <td>${items.name}</td>
+						  <td>${items.quantity} x</td>
+						  <td>${items.line_total.formatted_with_symbol}</td>
+					   </tr>`;
+			});
+
+			document.querySelector('#isi-item').innerHTML = item;
+			document.querySelector('#total').innerHTML = cart.subtotal.formatted_with_symbol;
 		});
 	</script>
 </html>
