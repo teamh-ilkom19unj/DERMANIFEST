@@ -204,6 +204,29 @@ button:hover{
   opacity: 1;
 }
 
+#empty-cart{
+	border-radius: 50px;
+}
+
+.checkout-btn button{
+	color: white;
+	background-color: #6A8D73;
+	transition: 0.3s;
+	letter-spacing: 3px;
+	font-weight: 500;
+    width: 200px;
+    height: 40px;
+    border: 1px solid #6A8D73;
+    border-radius: 20px;
+    margin-right: 25px;
+}
+
+.checkout-btn button:hover{
+	color: #6A8D73;
+	background-color: #F4FDD9;
+	transition: 0.3s;
+}
+
 /*---------L O A D E R---------*/
 #loading {
   	width: 100%;
