@@ -160,7 +160,7 @@
 						  <td>
 						  	<input type="number" id="item_quantity" name="item_quantity" min="1" max="20" onchange="updateItem('${items.id}', $(this).val());" value="${items.quantity}">
 						  </td>
-						  <td>${items.price.formatted_with_symbol}</td>
+						  <td>${items.line_total.formatted_with_symbol}</td>
 						  <td><a onclick="deleteFromCart('${items.id}');" class="delete"><i class="fa fa-trash-o"></i> Hapus</a></td>
 					   </tr>`;
 			});
