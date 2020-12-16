@@ -105,6 +105,9 @@
 					   </tr>
 				   </tbody>
 			</table>
+			<div class="checkout-btn text-right" id="chk-btn">
+
+			</div>
 		</div>
 	</div>
 
@@ -180,6 +183,10 @@
 						<h1>Cart mu sudah terisi. Sudah siap untuk checkout!</h1>
 					</div>
 				</div>`;
+				
+				document.querySelector('#chk-btn').innerHTML = `
+				<button onclick="window.location.href='checkout.html';" class="selengkapnya">Checkout</button>
+				`;
 			}
 		});
 
