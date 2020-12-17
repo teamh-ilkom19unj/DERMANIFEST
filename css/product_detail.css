@@ -184,20 +184,6 @@ button:focus {
 }
 
 .cart-btn{
-	color: #6A8D73;
-	background-color: white;
-	letter-spacing: 1px;
-	border-radius: 50px;
-	width: 350px;
-	transition: 0.3s;
-}
-
-.cart-btn:hover{
-	background-color: #F4FDD9;
-	transition: 0.3s;
-}
-
-.beli-btn{
 	background-color: #6A8D73;
 	color: white;
 	letter-spacing: 2px;
@@ -207,7 +193,7 @@ button:focus {
 	transition: 0.3s;
 }
 
-.beli-btn:hover{
+.cart-btn:hover{
 	color: #6A8D73;
 	background-color: #F4FDD9;
 	transition: 0.3s;
