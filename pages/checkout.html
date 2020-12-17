@@ -145,14 +145,15 @@
     					<div class="invalid-feedback">CVC (CVV) masih kosong.</div>
 				    </div>
 					<div class="col-4">
-     					<input class="form-control" type="text" name="payment[card][postal_zip_code]" placeholder="14210" required>
+     					<input class="form-control" type="text" name="payment[card][zip]" placeholder="14210" required>
     					<div class="invalid-feedback">Kode pos masih kosong.</div>
+					<input type="text" name="temp" placeholder="temporary" required hidden>
 				    </div>
 				</div>
 
 				<div class="row">
 					<div class="col-12 text-right">
-						<button class="btn btn-primary submit-btn" type="submit">Submit form</button>
+						<button class="btn btn-primary submit-btn" type="submit" onclick="validate();">Submit form</button>
 					</div>
 				</div>
 			</form>
@@ -223,5 +224,32 @@
 			document.querySelector('#isi-item').innerHTML = item;
 			document.querySelector('#total').innerHTML = cart.subtotal.formatted_with_symbol;
 		});
+	</script>
+	
+	<script>
+		//=============V A L I D A T I O N=============//
+		function validate(){ 
+			var a = document.forms["checkout"]["customer[firstname]"].value;
+			var b = document.forms["checkout"]["customer[lastname]"].value;
+			var c = document.forms["checkout"]["customer[email]"].value;
+			var d = document.forms["checkout"]["shipping[name]"].value;
+			var e = document.forms["checkout"]["shipping[street]"].value;
+			var f = document.forms["checkout"]["shipping[town_city]"].value;
+			var g = document.forms["checkout"]["shipping[county_state]"].value;
+			var h = document.forms["checkout"]["shipping[postal_zip_code]"].value;
+			var i = document.forms["checkout"]["payment[card][number]"].value;
+			var j = document.forms["checkout"]["payment[card][expiry_month]"].value;
+			var k = document.forms["checkout"]["payment[card][expiry_year]"].value;
+			var l = document.forms["checkout"]["payment[card][cvc]"].value;
+			var m = document.forms["checkout"]["payment[card][zip]"].value;
+
+
+			if (a == "" || b == "" || c == "" || d == "" || e == "" || f == "" || g == "" || h == "" || i == "" || j == "" || k =="" || l == "" || m == "") {
+				alert("Data masih ada yang kosong");
+				return false;
+			} else {
+				window.location.href='checkout_summary.html';
+			}
+		}
 	</script>
 </html>
