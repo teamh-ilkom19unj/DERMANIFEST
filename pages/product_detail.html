@@ -162,7 +162,7 @@
 		});
 
 	//Menampilkan jumlah item dalam cart
-	commerce.cart.retrieve('cart_3wpJXYgAm6ZE75').then((cart) => {
+	commerce.cart.retrieve('cart_6oLGNkmRRmybKw').then((cart) => {
 			console.log(cart)
 
 			document.querySelector('#jml-item').innerHTML = `<div class="material-icons-outlined">shopping_cart</div> Cart: ${cart.total_items}`;
@@ -173,7 +173,7 @@
 			commerce.cart.add(prod_id, 1).then(json => {
 				console.log(json)
 			});
-			commerce.cart.retrieve('cart_3wpJXYgAm6ZE75').then((cart) => {
+			commerce.cart.retrieve('cart_6oLGNkmRRmybKw').then((cart) => {
 			console.log(cart)
 
 			document.querySelector('#jml-item').innerHTML = `<div class="material-icons-outlined">shopping_cart</div> Cart: ${cart.total_items}`;
