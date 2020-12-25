@@ -1,0 +1,83 @@
+body{
+	margin: auto !important;
+	margin-left: 0px !important;
+	background: white;
+	font-family: 'Mulish', sans-serif !important;
+	scroll-behavior: smooth;
+	color: black !important;
+}
+
+ul{
+	margin-block-start: 0px !important;
+    margin-block-end: 0px !important;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px !important;
+    padding-inline-start: 0px !important;
+}
+
+.my-container{
+	padding: 10px 15px 10px 15px;
+	max-width: 1400px !important;
+	margin: 15px auto 100px auto !important;
+}
+
+.main img{
+	width: 200px;
+	height: auto;
+	margin: 25px 0px;
+}
+
+.material-icons-outlined{
+	vertical-align: -4px;
+	
+	font-size: 20px !important;
+}
+
+button:focus {
+	outline: none !important;
+}
+
+.summary-wrapper{
+	border: 2px solid #F0A868;
+	padding: 25px 0;
+	border-radius: 20px;
+	background-color: #fcfcfc;
+}
+
+.summary-wrapper img{
+	width: 120px !important;
+	height: auto !important;
+}
+
+.summary-wrapper hr{
+	border: 3px solid #6A8D73;
+}
+
+.summary-wrapper h2{
+	color: #6A8D73;
+	font-weight: 600;
+	margin-top: 15px;
+}
+
+.landing-btn button{
+	color: white;
+	background-color: #6A8D73;
+	transition: 0.3s;
+	font-weight: 500;
+    width: 240px;
+    height: 40px;
+    border: 1px solid #6A8D73;
+    border-radius: 20px;
+    margin-right: 25px;
+}
+
+.landing-btn button:hover{
+	color: #6A8D73;
+	background-color: #F4FDD9;
+	transition: 0.3s;
+}
+
+
+
+
+
