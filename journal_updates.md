@@ -65,5 +65,5 @@ Selamat Hari Natal!
 
 -----
 ## Note
-* Tepat 2 Minggu sebelum pengumpulan tugas tanggal 7 Januari 2021
+* Kami deploy website tepat 2 Minggu sebelum pengumpulan tugas tanggal 7 Januari 2021
 * Dikarenakan banyaknya rombakan, kami menginisiasikan penghapusan seluruh pages yang lama supaya tidak terjadi ambiguitas dengan pages yang baru
