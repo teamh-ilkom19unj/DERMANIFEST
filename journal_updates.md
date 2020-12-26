@@ -28,7 +28,7 @@ Kami mengadakan meeting team-h untuk mendiskusikan tugas yang diberikan serta ka
 * Membuat Front Webpage Checkout
 
 ## 10 Desember 2020
-* Membuat Webpage Landing Page
+* Membuat Front Webpage Checkout Summary 
 
 ## 15 Desember 2020
 * Mengupdate Landing Page
@@ -36,3 +36,34 @@ Kami mengadakan meeting team-h untuk mendiskusikan tugas yang diberikan serta ka
 
 ## 16 Desember 2020
 * Membuat Cart
+
+## 18 Desember 2020
+* Membuat database
+
+## 19 Desember 2020
+* Menyambungkan file php ke database
+* Membuat config
+
+## 20 Desember 2020
+* Menyesuaikan fitur dengan database (log in, comparison, dan care guide)
+
+## 22 Desember 2020
+Selamat Hari Ibu!
+* Masih mengerjakan bagian fitur
+
+## 24 Desember 2020
+* Membuat fitur & tabel activity log
+* Percobaan, debugging, dan finalisasi sebelum deploy
+
+## 25 Desember 2020
+Selamat Hari Natal!
+* Mempersiapkan domain dan server hosting untuk deploy
+* Menyesuaikan file dengan server hosting dengan software Core FTP LE
+
+## 26 Desember 2020
+*WEBSITE SELESAI DI DEPLOY*
+
+-----
+## Note
+* Tepat 2 Minggu sebelum pengumpulan tugas tanggal 7 Januari 2021
+* Dikarenakan banyaknya rombakan, kami menginisiasikan penghapusan seluruh pages yang lama supaya tidak terjadi ambiguitas dengan pages yang baru
