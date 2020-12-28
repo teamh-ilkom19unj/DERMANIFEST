@@ -8,9 +8,9 @@ Handini Aprillia Wijaya (1313619038) <a href = "https://github.com/teamh-ilkom19
 
 ## First Phase
 
-<a href = "https://github.com/teamh-ilkom19unj/DERMANIFEST/blob/main/MINI_REPORT.md"> MINI REPORT</a>
+<a href = "https://github.com/teamh-ilkom19unj/DERMANIFEST/blob/main/MINI_REPORT.md"> MINI REPORT</a> — Report yang berisikan rekap data dari kuesioner pertama.
 
-<a href = "https://docs.google.com/forms/d/e/1FAIpQLSfGLuVKoRG-y1tsUASWbMC11aJmuYp6F069yc4kCKkGk5R1xA/viewform"> Pertanyaan Kuesioner Pertama</a>
+<a href = "https://docs.google.com/forms/d/e/1FAIpQLSfGLuVKoRG-y1tsUASWbMC11aJmuYp6F069yc4kCKkGk5R1xA/viewform"> Pertanyaan Kuesioner Pertama</a> — List pertanyaan dari kuesioner pertama.
 
 
 ## Mockup Design
