@@ -13,6 +13,7 @@ defined('BASEPATH') or exit('No direct script access allowed');
     <div class="container" style="height: 700px">
         <h1>Care Guide</h1>
         <h3>kondisi Kulit</h3>
+        <p>Dapat dipilih dengan lebih dari satu pilihan.</p>
         <?php $x = 1;
         $count = count($kondisi);
         foreach ($kondisi as $key => $item) : ?>
