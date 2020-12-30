@@ -73,6 +73,56 @@ $config = array(
             'rules' => 'trim|required'
         )
     )
+    'simpan-feedback' => array(
+        array(
+            'field' => 'nama',
+            'label' => 'Nama',
+            'rules' => 'trim|required|max_length[50]',
+            'errors' => array(
+                'in_list' => 'Jawaban pertanyaan ke-1 tidak sesuai',
+            ),
+        ),
+        array(
+            'field' => 'jwb_1',
+            'label' => 'Jawaban Pertanyaan Ke-1',
+            'rules' => 'trim|required|in_list[1,2,3,4,5]',
+            'errors' => array(
+                'in_list' => 'Jawaban pertanyaan ke-1 tidak sesuai',
+            ),
+        ),
+        array(
+            'field' => 'jwb_2',
+            'label' => 'Jawaban Pertanyaan Ke-2',
+            'rules' => 'trim|required|in_list[1,2,3,4,5]',
+            'errors' => array(
+                'in_list' => 'Jawaban pertanyaan ke-2 tidak sesuai',
+            ),
+        ),
+        array(
+            'field' => 'jwb_3',
+            'label' => 'Jawaban Pertanyaan Ke-3',
+            'rules' => 'trim|required|in_list[1,2,3,4,5]',
+            'errors' => array(
+                'in_list' => 'Jawaban pertanyaan ke-3 tidak sesuai',
+            ),
+        ),
+        array(
+            'field' => 'jwb_4',
+            'label' => 'Jawaban Pertanyaan Ke-4',
+            'rules' => 'trim|required|in_list[1,2,3,4,5]',
+            'errors' => array(
+                'in_list' => 'Jawaban pertanyaan ke-4 tidak sesuai',
+            ),
+        ),
+        array(
+            'field' => 'jwb_5',
+            'label' => 'Jawaban Pertanyaan Ke-5',
+            'rules' => 'trim|required|in_list[1,2,3,4,5]',
+            'errors' => array(
+                'in_list' => 'Jawaban pertanyaan ke-5 tidak sesuai',
+            ),
+        ),
+    )
 );
 
 $config['error_prefix'] = '<p class="mb-0">';
