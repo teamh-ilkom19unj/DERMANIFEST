@@ -8,7 +8,7 @@ Putu Sanisa Pascaline (1313619023) <a href = "https://github.com/sanisapascaline
 Handini Aprillia Wijaya (1313619038) <a href = "https://github.com/teamh-ilkom19unj"> handiniaprilia </a> <br> <br> 
 
 ## Branch development
-```Branch development merupakan branch yang memuat perkembangan dalam membuat website Dermanifest berisikan empat konten konten utama, yaitu:```
+Branch development merupakan branch yang memuat perkembangan dalam membuat website Dermanifest berisikan empat konten konten utama, yaitu:
 
 ## Final Project Report
 ```Laporan dari project akhir web Dermanifest, yang mencakup pengenalan web, perkembangan pengguna, hasil kuesioner pada web, dan tabel logging.```
