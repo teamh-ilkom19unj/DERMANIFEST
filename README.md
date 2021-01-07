@@ -12,7 +12,7 @@ Branch development merupakan branch yang memuat perkembangan dalam membuat websi
 
 ## Final Project Report
 ```Laporan dari project akhir web Dermanifest, yang mencakup pengenalan web, perkembangan pengguna, hasil kuesioner pada web, dan tabel logging.```
-* 🔗: 
+* 🔗: <a href="https://github.com/teamh-ilkom19unj/DERMANIFEST/blob/development/final_project_report/Final_Project_Report.pdf"> Final Project Report </a>
 
 ## Source Code Dermanifest
 ```Source code dari web Dermanifest.```
