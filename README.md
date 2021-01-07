@@ -1,10 +1,29 @@
-# DERMANIFEST
+# <div align="center">DERMANIFEST</div>
 
+<p align="center"><img src="https://user-images.githubusercontent.com/58965231/103895195-9413de00-5122-11eb-8170-01bfea7f06b3.png" width="250"></p>
 
 ## TEAM H
 Muhammad Anindyo P. M. (1313619004) <a href = "https://github.com/anindyoo"> anindyoo </a> <br>
 Putu Sanisa Pascaline (1313619023) <a href = "https://github.com/sanisapascaline"> sanisapascaline </a> <br>
 Handini Aprillia Wijaya (1313619038) <a href = "https://github.com/teamh-ilkom19unj"> handiniaprilia </a> <br> <br> 
+
+## <div align="center">Final Project Report</div>
+```Laporan dari project akhir web Dermanifest, yang mencakup pengenalan web, perkembangan pengguna, hasil kuesioner pada web, dan tabel logging.```
+* 🔗: <a href="https://github.com/teamh-ilkom19unj/DERMANIFEST/blob/development/final_project_report/Final_Project_Report.pdf"> Final Project Report </a>
+
+## <div align="center">Source Code Web Dermanifest</div>
+```Source code dari web Dermanifest.```
+* 🔗: <a href="https://github.com/teamh-ilkom19unj/DERMANIFEST/tree/development/dermanifest">Source Code Dermanifest </a>
+
+## <div align="center">Journal Updates</div>
+```Journal update yang berisikan proggress development dari hari ke hari.```
+* 🔗: <a href="https://github.com/teamh-ilkom19unj/DERMANIFEST/blob/development/journal_updates.md"> Journal Update Dermanifest </a>
+
+## <div align="center">Link Deployment Dermanifest</div>
+```Tautan project akhir penulis.```
+* 🔗: <a href="http://dermanifest.my.id/">dermanifest.my.id </a>
+
+<br>
 
 ## First Phase
 
