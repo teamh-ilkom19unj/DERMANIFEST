@@ -61,9 +61,14 @@ Selamat Hari Natal!
 * Menyesuaikan file dengan server hosting dengan software Core FTP LE
 
 ## 26 Desember 2020
-*WEBSITE SELESAI DI DEPLOY*
+*WEBSITE SELESAI DI DEPLOY DI JOGJA HOSTING*
+
+## 28 Desember 2020
+* Mematikan Server dermanifest.xyz
+
+## 30 Desember 2020
+**WEBSITE SELESAI DI DEPLOY DI DEWA WEB HOSTING DENGAN DOMAIN my.id**
 
 -----
 ## Note
-* Kami deploy website tepat 2 Minggu sebelum pengumpulan tugas tanggal 7 Januari 2021
 * Dikarenakan banyaknya rombakan, kami menginisiasikan penghapusan seluruh pages yang lama supaya tidak terjadi ambiguitas dengan pages yang baru
