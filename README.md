@@ -23,6 +23,10 @@ Handini Aprillia Wijaya (1313619038) <a href = "https://github.com/teamh-ilkom19
 ```Journal update yang berisikan proggress development dari hari ke hari.```
 * 🔗: <a href="https://github.com/teamh-ilkom19unj/DERMANIFEST/blob/development/journal_updates.md"> Journal Update Dermanifest </a>
 
+## <div align="center">Final Report Writing [Assignment 3]</div>
+```Report writing yang merangkum semua hal yang diperoleh dan dilakukan dari 1st phase hingga 2nd phase.```
+* 🔗: <a href = "https://github.com/teamh-ilkom19unj/DERMANIFEST/blob/main/REPORT_FINAL_WRITING/Report_Writing.pdf"> Final Report Writing</a>
+
 
 <br>
 
@@ -52,6 +56,5 @@ Handini Aprillia Wijaya (1313619038) <a href = "https://github.com/teamh-ilkom19
 
 * <a href = "https://github.com/teamh-ilkom19unj/DERMANIFEST/tree/main/Questionnaire_Proof"> Bukti Hasil Kuesioner 1 dan 2</a> — ```Bukti jawaban / tanggapan dari kuesioner pertama dan kuesioner kedua.```
 
-* <a href = "https://github.com/teamh-ilkom19unj/DERMANIFEST/blob/main/REPORT_FINAL_WRITING/Report_Writing.pdf"> REPORT FINAL WRITING</a> — ```Report writing yang merangkum semua hal yang diperoleh dan dilakukan dari 1st phase hingga 2nd phase.```
 
 
