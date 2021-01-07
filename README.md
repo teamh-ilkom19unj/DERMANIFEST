@@ -15,15 +15,20 @@ Handini Aprillia Wijaya (1313619038) <a href = "https://github.com/teamh-ilkom19
 ```Source code dari web Dermanifest.```
 * 🔗: <a href="https://github.com/teamh-ilkom19unj/DERMANIFEST/tree/development/dermanifest">Source Code Dermanifest </a>
 
-## <div align="center">Journal Updates</div>
-```Journal update yang berisikan proggress development dari hari ke hari.```
-* 🔗: <a href="https://github.com/teamh-ilkom19unj/DERMANIFEST/blob/development/journal_updates.md"> Journal Update Dermanifest </a>
-
 ## <div align="center">Link Deployment Dermanifest</div>
 ```Tautan project akhir penulis.```
 * 🔗: <a href="http://dermanifest.my.id/">dermanifest.my.id </a>
 
+## <div align="center">Journal Updates</div>
+```Journal update yang berisikan proggress development dari hari ke hari.```
+* 🔗: <a href="https://github.com/teamh-ilkom19unj/DERMANIFEST/blob/development/journal_updates.md"> Journal Update Dermanifest </a>
+
+
 <br>
+
+----
+
+# Assignment 3
 
 ## First Phase
 
